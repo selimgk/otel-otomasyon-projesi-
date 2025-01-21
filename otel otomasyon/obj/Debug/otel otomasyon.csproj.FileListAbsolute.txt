@@ -1,0 +1,40 @@
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.exe.config
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.exe
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.pdb
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form1.resources
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form3.resources
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form4.resources
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel oto.2D60A330.Up2Date
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.exe
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.pdb
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form1.resources
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form3.resources
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.exe
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel otomasyon.pdb
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.exe.config
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.exe
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\otel otomasyon.pdb
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel oto.2D60A330.Up2Date
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.anaEkran.resources
+C:\Users\pc\Desktop\ottell\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.Form4.resources
+C:\Users\pc\Desktop\otel otomasyon\otel otomasyon\otel otomasyon\obj\Debug\otel_otomasyon.anaEkran.resources
