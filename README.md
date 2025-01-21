@@ -1,6 +1,6 @@
 # otel-otomasyon-projesi-
 # youtube video linki
-https://www.youtube.com/watch?v=wq4agoUIf78&t=6s
+https://www.youtube.com/watch?v=wq4agoUIf78
 
 # class diyagramı
 ![Class Diyagramı](https://github.com/user-attachments/assets/483d7dc3-d91c-44c3-b6fb-857b00811c7c)
